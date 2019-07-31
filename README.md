@@ -1,11 +1,11 @@
 # Single-molecule-tracking-code-PLOS-One-2013
 This is the SPT code published in "Weimann, L., Ganzinger, K. A., McColl, J., Irvine, K. L., Davis, S. J., Gay, N. J., ... &amp; Klenerman, D. (2013). A quantitative comparison of single-dye tracking analysis tools using Monte Carlo simulations. PloS one, 8(5), e64287."
 
-\Please cite the paper if you use it.\ 
+*Please cite the paper if you use it.*
 
 The article can be downloaded (open access) under
 
- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064287
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064287
 
 Instructions for use of the code:
 
